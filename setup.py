@@ -26,7 +26,7 @@ setup(
     author_email="jstockwin@gmail.com",
     include_package_data=True,
     install_requires=[
-        "pdfminer.six==20220524",
+        "pdfminer.six==20221105",
         "docopt==0.6.2",
         "wand==0.6.10",
     ],
